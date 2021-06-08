@@ -1,7 +1,7 @@
 {
   "name": "demo3",
   "version": "0.1.0",
-  "description": "demo1: Getting Started",
+  "description": "demo3: Output Management",
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "dev": "webpack serve"
