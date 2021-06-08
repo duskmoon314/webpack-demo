@@ -4,8 +4,8 @@
   "description": "Some webpack demos coded by duskmoon",
   "private": true,
   "scripts": {
-    "demo": "cd demo${CHAPTER:-1} && webpack --config webpack.config.js",
-    "test": "echo \"Error: no test\" && exit 1"
+    "demo": "cd demo${CHAPTER:-1} && npm i && npm run build",
+    "clean": "rimraf ./**/node_modules"
   },
   "repository": {
     "type": "git",
@@ -20,12 +20,9 @@
   },
   "homepage": "https://github.com/duskmoon314/webpack-demo#readme",
   "devDependencies": {
-    "css-loader": "^5.2.6",
-    "style-loader": "^2.0.0",
+    "rimraf": "^3.0.2",
     "webpack": "^5.38.1",
-    "webpack-cli": "^4.7.0"
-  },
-  "dependencies": {
-    "lodash": "^4.17.21"
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
   }
 }
