@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "demo": "cd demo${CHAPTER:-1} && npm i && npm run build",
+    "demo-dev": "cd demo${CHAPTER:-1} && npm i && npm run dev",
     "clean": "rimraf ./**/node_modules"
   },
   "repository": {
