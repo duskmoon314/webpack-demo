@@ -9,15 +9,15 @@
   "author": "duskmoon",
   "license": "ISC",
   "devDependencies": {
-    "css-loader": "^5.2.6",
-    "csv-loader": "^3.0.3",
-    "json5": "^2.2.0",
-    "style-loader": "^2.0.0",
-    "toml": "^3.0.0",
-    "xml-loader": "^1.2.1",
-    "yamljs": "^0.3.0"
+    "css-loader": "5.2.6",
+    "csv-loader": "3.0.3",
+    "json5": "2.2.0",
+    "style-loader": "2.0.0",
+    "toml": "3.0.0",
+    "xml-loader": "1.2.1",
+    "yamljs": "0.3.0"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "4.17.21"
   }
 }
