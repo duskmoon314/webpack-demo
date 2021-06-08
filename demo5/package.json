@@ -1,0 +1,14 @@
+{
+  "name": "demo5",
+  "version": "0.1.0",
+  "description": "demo5: Code Splitting",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "dev": "webpack serve"
+  },
+  "author": "duskmoon",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
