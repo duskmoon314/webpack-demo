@@ -10,10 +10,10 @@
   "author": "duskmoon",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^10.0.0",
-    "lodash": "^4.17.21"
+    "dotenv": "10.0.0",
+    "lodash": "4.17.21"
   },
   "devDependencies": {
-    "html-webpack-plugin": "^5.3.1"
+    "html-webpack-plugin": "5.3.1"
   }
 }
