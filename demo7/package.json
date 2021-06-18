@@ -1,0 +1,15 @@
+{
+  "name": "demo7",
+  "version": "0.1.0",
+  "description": "demo7: Authoring Libraries",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "dev": "webpack serve"
+  },
+  "module": "src/index.js",
+  "author": "duskmoon",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
