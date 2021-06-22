@@ -12,6 +12,6 @@
     "lodash": "4.17.21"
   },
   "devDependencies": {
-    "html-webpack-plugin": "5.3.1"
+    "html-webpack-plugin": "5.3.2"
   }
 }
