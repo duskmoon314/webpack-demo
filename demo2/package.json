@@ -9,7 +9,7 @@
   "author": "duskmoon",
   "license": "ISC",
   "devDependencies": {
-    "css-loader": "5.2.6",
+    "css-loader": "5.2.7",
     "csv-loader": "3.0.3",
     "json5": "2.2.0",
     "style-loader": "3.0.0",
