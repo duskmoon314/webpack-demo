@@ -12,7 +12,7 @@
     "css-loader": "5.2.6",
     "csv-loader": "3.0.3",
     "json5": "2.2.0",
-    "style-loader": "3.0.0",
+    "style-loader": "3.3.4",
     "toml": "3.0.0",
     "xml-loader": "1.2.1",
     "yamljs": "0.3.0"
